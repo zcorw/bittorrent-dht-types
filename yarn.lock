@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@types/node@^13.9.0":
-  version "13.9.0"
-  resolved "https://registry.npmjs.org/@types/node/-/node-13.9.0.tgz#5b6ee7a77faacddd7de719017d0bc12f52f81589"
+"@types/node@*":
+  version "20.8.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.8.2.tgz#d76fb80d87d0d8abfe334fc6d292e83e5524efc4"
 
 bencode@^2.0.0:
   version "2.0.1"
@@ -47,10 +47,10 @@ chrome-net@^3.3.2:
     inherits "^2.0.1"
 
 debug@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.npmjs.org/debug/-/debug-4.1.1.tgz#3b72260255109c6b589cee050f1d516139664791"
+  version "4.3.4"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-4.3.4.tgz#1319f6579357f2338d3337d2cdd4914bb5dcc865"
   dependencies:
-    ms "^2.1.1"
+    ms "2.1.2"
 
 inherits@^2.0.1:
   version "2.0.4"
@@ -89,9 +89,9 @@ lru@^3.1.0:
   dependencies:
     inherits "^2.0.1"
 
-ms@^2.1.1:
+ms@2.1.2:
   version "2.1.2"
-  resolved "https://registry.npmjs.org/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
+  resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
 
 queue-microtask@^1.1.2:
   version "1.1.2"
